@@ -1,5 +1,5 @@
 "Data Analysis and Visualization"
-""" import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 import pandas as pd
 
 # Load data from a file
@@ -13,4 +13,4 @@ plt.title('AAPL Stock Price and 20-Day Moving Average')
 plt.xlabel('Date')
 plt.ylabel('Price ($)')
 plt.legend()
-plt.show() """
+plt.show()
